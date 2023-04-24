@@ -1,0 +1,4 @@
+res://node_3d.tscn
+res://Scripts/IsometricCamera.gd
+res://Scenes/Dev/TestCamera.tscn
+res://Scenes/Dev/TestUI.tscn

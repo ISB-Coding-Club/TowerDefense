@@ -1,3 +1,10 @@
 2a60927148abd1d33b818b535e306557
-::res://::1680557724
+::res://::1682373045
 icon.svg::CompressedTexture2D::4328915569381027384::1680557718::1680557726::1::::<><>::
+README.md::TextFile::-1::1680558029::0::1::::<><>::
+TestUI.tscn::PackedScene::6510741664983658661::1682373045::0::1::::<><>::res://Scripts/IsometricCamera.gd
+::res://Scenes/::1682372957
+::res://Scenes/Dev/::1682372974
+TestCamera.tscn::PackedScene::9184747408425762867::1682372974::0::1::::<><>::res://Scripts/IsometricCamera.gd
+::res://Scripts/::1682372805
+IsometricCamera.gd::GDScript::-1::1682372805::0::1::::<>Camera3D<>::
